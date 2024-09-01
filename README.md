@@ -1,1 +1,1 @@
-Learned how to use git and GitHub and write a basic webpage
+Built a web page to show case relative links and descriptions
